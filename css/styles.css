@@ -1,0 +1,162 @@
+body {
+  background-color: #ffdada;
+  margin: 0;
+  text-align: center;
+  font-family: 'Fraunces', serif;
+  color: #40514e;
+}
+
+h1 {
+  margin: 220px auto 0 auto;
+  font-size: 5.625rem;
+  color: #ffabe1;
+  font-family: 'La Belle Aurore', cursive;
+  line-height: 20px;
+}
+
+h2 {
+  font-family: 'Yusei Magic', sans-serif;
+  font-size: 2rem;
+  color: #6155a6;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Yusei Magic', sans-serif;
+  color: #a685e2;
+}
+
+hr {
+  border: dotted #f6c065 6px;
+  border-bottom: none;
+  width: 3%;
+  margin: 100px auto;
+}
+
+.top-container {
+  position: relative;
+  padding-top: 100px;
+  background-color: #55b3b1;
+
+}
+
+.pink-mountains {
+  width: 100%;
+  height: 90%;
+}
+
+.middle-container {
+  margin: 100px;
+}
+
+.bottom-container {
+background-color: #f6c065;
+height: 130px;
+padding-top: 45px;
+}
+
+.top-cloud {
+  position: fixed;
+  right: 0%;
+  top: 1px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 6%;
+  bottom: 60%;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 4% auto 10% auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.picrew-me {
+  max-width: 10%;
+  height: auto;
+  border-radius: 50%;
+  position: relative;
+  margin-top: 5%;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+  line-height: 2;
+}
+
+.skillsgif {
+  max-width: 25%;
+  float: left;
+  padding-right: 40px;
+  }
+
+.login-icon {
+  max-width: 25%;
+  float: right;
+  padding-left: 40px;
+}
+
+.footer-link {
+  color: #55b3b1;
+  text-decoration: none;
+  padding: 10px;
+  position: relative;
+  margin-top: 90%;
+  font-size: 20px;
+
+}
+
+.contact-me {
+  width: 50%;
+  margin: auto;
+}
+
+.btn {
+  background-color: #55b3b1;
+  color: white;
+  border: none;
+  text-decoration: none;
+  display: inline-block;
+  padding: 15px;
+  border-radius: 10px;
+  margin: 20px auto 50px auto;
+  font-size: 20px;
+}
+
+.btn {
+  background: #a685e2;
+  background-image: -webkit-linear-gradient(top, #a685e2, #55b3b1);
+  background-image: -moz-linear-gradient(top, #a685e2, #55b3b1);
+  background-image: -ms-linear-gradient(top, #a685e2, #55b3b1);
+  background-image: -o-linear-gradient(top, #a685e2, #55b3b1);
+  background-image: linear-gradient(to bottom, #a685e2, #55b3b1);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: fraunces;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 15px;
+  text-decoration: none;
+  margin: 35px auto 50px auto;
+}
+
+.btn:hover {
+  background: #9ddfd3;
+  background-image: -webkit-linear-gradient(top, #9ddfd3, #ffe6e6);
+  background-image: -moz-linear-gradient(top, #9ddfd3, #ffe6e6);
+  background-image: -ms-linear-gradient(top, #9ddfd3, #ffe6e6);
+  background-image: -o-linear-gradient(top, #9ddfd3, #ffe6e6);
+  background-image: linear-gradient(to bottom, #9ddfd3, #ffe6e6);
+  text-decoration: none;
+}
+
+
+.copyright {
+  color: #f8f1f1;
+  padding-top: 20px;
+}
